@@ -1,0 +1,9 @@
+devid=myname
+devtitle=My Name
+gameid=mygame
+gametitle=dash
+version=0.1
+icon=metadata/icon.png
+compile_ruby=true
+scale_quality=2
+hd=true
